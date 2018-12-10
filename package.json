@@ -2,6 +2,9 @@
   "name": "mernapp",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "8.9.4"
+  },
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
